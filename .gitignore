@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/checkdubyaml
+checkdubyaml.so
+checkdubyaml.dylib
+checkdubyaml.dll
+checkdubyaml.a
+checkdubyaml.lib
+checkdubyaml-test-*
+*.exe
+*.o
+*.obj
+*.lst

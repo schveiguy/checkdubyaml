@@ -1,0 +1,13 @@
+{
+	"authors": [
+		"Steven Schveighoffer"
+	],
+	"copyright": "Copyright © 2020, Steven Schveighoffer",
+	"dependencies": {
+		"dyaml": "~>0.8.1",
+		"vibe-d:data": "~>0.8.6"
+	},
+	"description": "Check all dub.json files from the code.dlang.org registry for compliance with yaml",
+	"license": "Boost-1.0",
+	"name": "checkdubyaml"
+}
